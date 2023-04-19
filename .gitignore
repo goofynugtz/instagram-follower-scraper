@@ -1,4 +1,5 @@
-env/
+.env
+venv
 followers.txt
-followings.txt
+following.txt
 difference.txt
